@@ -2,3 +2,4 @@ login_user: root
 login_host: db-dev.rlsu.shop
 login_password: ExpenseApp1
 DB_HOST: db-dev.rlsu.shop
+BACKEND_HOST: backend.app-dev.rlsu.shop
